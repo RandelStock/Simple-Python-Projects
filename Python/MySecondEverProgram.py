@@ -1,0 +1,6 @@
+print("The \nQuick Brown Fox , \nJumps Over \n The Lazy Dog")
+print("The \nQuick Brown Fox , \nJumps Over \n The Lazy Dog")
+print("The \nQuick Brown Fox , \nJumps Over \n The Lazy Dog")
+print("The \nQuick Brown Fox , \nJumps Over \n The Lazy Dog")
+print("The \nQuick Brown Fox , \nJumps Over \n The Lazy Dog")
+print("The Quick Brown Fox , Jumps Over The Lazy Dog")
